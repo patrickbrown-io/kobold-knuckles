@@ -1,0 +1,27 @@
+{
+    "name": "kobold-knuckles",
+    "id": "kobold-knuckles",
+    "title": "Kobold Knuckles",
+    "description": "A dice game module for Foundry VTT with betting and payout mechanics.",
+    "version": "1.0.0",
+    "authors": [
+        {
+            "name": "User",
+            "email": "",
+            "url": "",
+            "discord": ""
+        }
+    ],
+    "compatibility": {
+        "minimum": "9",
+        "verified": "11"
+    },
+    "scripts": ["kobold-knuckles.js"],
+    "esmodules": [],
+    "styles": [],
+    "languages": [],
+    "packs": [],
+    "url": "",
+    "license": "MIT",
+    "readme": "README.md"
+}
