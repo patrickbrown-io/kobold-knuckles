@@ -3,6 +3,8 @@
     "id": "kobold-knuckles",
     "title": "Kobold Knuckles",
     "description": "A dice game module for Foundry VTT with betting and payout mechanics.",
+    "manifest": "https://raw.githubusercontent.com/patrickbrown-io/kobold-knuckles/main/module.json",
+    "download": "https://github.com/patrickbrown-io/foundryvtt-kobold-knuckles/archive/main.zip"
     "version": "1.0.0",
     "authors": [
         {
